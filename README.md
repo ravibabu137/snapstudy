@@ -10,3 +10,5 @@ explanation. One button emails you a summary of the session.
    - a Gemini API key from aistudio.google.com
    - a Gmail address and App Password (myaccount.google.com/apppasswords)
 3. Run: `streamlit run app.py`
+
+🔗 **Live app:** https://snapstudy-xtir3uatwj2gcka9p42tkw.streamlit.app/
